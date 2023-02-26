@@ -1,0 +1,6 @@
+link the ERD, in web tool to design the database
+
+
+
+
+https://app.quickdatabasediagrams.com/#/d/SvXKEb
