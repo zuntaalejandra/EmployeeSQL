@@ -1,4 +1,4 @@
-# Project 1: <font color='crimson'>SQL Challenge</font>
+# <font color='crimson'>SQL Challenge</font>
 
 Data modeling, data engineering, and data analysis from Pewlett Hackard Company
 
